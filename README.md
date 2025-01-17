@@ -137,6 +137,6 @@ _regex = {
 
 - added debug
 - fixed error
-
+- added -IDER options to scan files  
 
 ```
