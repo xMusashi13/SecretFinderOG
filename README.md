@@ -128,6 +128,12 @@ _regex = {
 
     'name_for_my_regex' : r'my_regex',
     # for example
+
+
+## Edits
+
+- added debug
+- fixed error
     'example_api_key'    : r'^example\w+{10,50}'
 }
 
