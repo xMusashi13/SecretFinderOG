@@ -130,11 +130,13 @@ _regex = {
     # for example
 
 
+    'example_api_key'    : r'^example\w+{10,50}'
+}
+```
 ## Edits
 
 - added debug
 - fixed error
-    'example_api_key'    : r'^example\w+{10,50}'
-}
+
 
 ```
